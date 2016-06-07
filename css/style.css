@@ -1,0 +1,24 @@
+body{
+  color:#2d3c49;
+}
+
+.line-style {
+  height: 3px;
+  background-color: black;
+}
+
+.light-text{
+  color:#7d97ad;
+}
+
+.text-jumbo{
+  font-size: 60px;
+}
+
+.logo{
+  margin: 20px;
+}
+
+footer{
+  background-color: #02b3e4;
+}
